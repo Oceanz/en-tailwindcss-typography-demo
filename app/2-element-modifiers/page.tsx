@@ -7,7 +7,7 @@ export default function Home() {
 				<h1>⚙️ Default Styles</h1>
 				<h2>H2: Section Heading</h2>
 				<h3>H3: Subsection Heading</h3>
-				<p>This content does not use Typography styles, and instead uses the browser's default styles, also known as the User Agent Stylesheet.</p>
+				<p>This content does not use Typography styles, and instead uses the browse&rsquo;s default styles, also known as the User Agent Stylesheet.</p>
 				<p>
 					You can write text that is <span style={{ fontWeight: "bold" }}>bold</span>, <em>italicized</em>, or contains <code>code snippets</code>.
 				</p>
